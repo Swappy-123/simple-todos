@@ -1,0 +1,25 @@
+/* Write your CSS here */
+
+.para {
+  font-size: 18px;
+  font-family: 'Roboto';
+  color: black;
+}
+
+.btn {
+  height: 5vh;
+  width: 20vh;
+  border: 2px solid #ff0b37;
+  border-radius: 10px;
+  background-color: white;
+  color: #ff0b37;
+  font-size: 15px;
+}
+
+.con {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px;
+}

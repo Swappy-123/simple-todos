@@ -1,0 +1,30 @@
+/* Write your CSS here */
+
+.bg-container {
+  background-color: pink;
+  height: 100vh;
+  background-size: cover;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+.card {
+  background-color: white;
+  height: 90vh;
+  width: 90vh;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border: 0px solid;
+  border-radius: 10px;
+}
+
+.head {
+  font-size: 30px;
+  font-family: 'Roboto';
+  font-weight: bold;
+  color: #ff8542;
+}
